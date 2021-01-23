@@ -22,9 +22,9 @@ We configure the Raspberry Pi and install the Linux operating system.
 
 ## Preparing the operating system
 
-The node runs headless, that means without keyboard or display, so the operating system Raspbian Buster Lite is used.
+The node runs headless, that means without keyboard or display, so the operating system Raspberry Pi OS Lite is used.
 
-1. Download the [Raspbian Buster Lite](https://www.raspberrypi.org/downloads/raspbian/){:target="_blank"} disk image
+1. Download the [Raspberry Pi OS Lite](https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit){:target="_blank"} disk image
 2. Write the disk image to your SD card with [this guide](https://www.raspberrypi.org/documentation/installation/installing-images/README.md){:target="_blank"}
 
 ### Enable Secure Shell
